@@ -1,6 +1,6 @@
 # Welcome to Emacs.zip!
 
-![Emacs.zip Logo](./assets/logo.jpg)
+![Emacs.zip Logo](../assets/logo.jpg)
 
 Emacs.zip is a GitHub repository dedicated to showcasing a remarkable web development project – Emacs.zip website. It serves as a demonstration of skills and acts as a portfolio to highlight the capabilities of the developer.
 
